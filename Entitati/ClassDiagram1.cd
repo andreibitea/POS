@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Entitati.Pachet">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCAAAAAAAAAAAEIABBAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Pachet.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entitati.Produs">
+    <Position X="13.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAABFAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Produs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entitati.ProdusAbstract" Collapsed="true">
+    <Position X="11.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAQkAABEAAQAAAAAABAAAABAAQAAAAA=</HashCode>
+      <FileName>ProdusAbstract.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Entitati.Serviciu">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAABEAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Serviciu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Entitati.IPackageable">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPackageable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

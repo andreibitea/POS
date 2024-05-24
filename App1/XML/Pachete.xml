@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<pachete>
+	<pachet>
+		<infoPach>
+			<nume>Pachet</nume>
+			<codIntern>P1</codIntern>
+			<categorie>PKG</categorie>
+		</infoPach>
+		<produs>
+			<nume>Produs</nume>
+			<codIntern>PR1</codIntern>
+			<producator>Prod</producator>
+			<categorie>Produse</categorie>
+			<pret>1</pret>	
+		</produs>
+		<serviciu>
+			<nume>Serviciu</nume>
+			<codIntern>SV1</codIntern>
+			<categorie>Servicii</categorie>
+			<pret>10</pret>	
+		</serviciu>
+	</pachet>
+
+	<pachet>
+		<infoPach>
+			<nume>Pachetel</nume>
+			<codIntern>GG1337</codIntern>
+			<categorie>GUD</categorie>
+		</infoPach>
+		<produs>
+			<nume>Proiect</nume>
+			<codIntern>PRPOO</codIntern>
+			<producator>Bitea</producator>
+			<categorie>SiSharp</categorie>
+			<pret>1000000</pret>
+		</produs>
+		<serviciu>
+			<nume>Incarcare</nume>
+			<codIntern>LD0</codIntern>
+			<categorie>Loading</categorie>
+			<pret>123</pret>
+		</serviciu>
+	</pachet>
+
+</pachete>
